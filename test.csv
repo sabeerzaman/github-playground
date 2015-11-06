@@ -1,12 +1,2 @@
----
-Table Name: test
-List of fields:
- - Item 1
- - Item 2
-animal: pets
-- Cat
-- Dog
-- Goldfish
----
 Column Name 1,Column Name 2,
 "Quoted text with a, comma inside",Random word,
